@@ -2,13 +2,13 @@
 
 An adaptive Sublime Text 3 Theme based on [Theme Fits](https://github.com/xxxzc/themefits) that can be used to almost all color schemes.  
 
-![screenshot-1](./screenshots/screenshot-mariana.png) 
+![screenshot-mariana](./screenshots/screenshot-mariana.png) 
 Font: Inconsolata Bold, Color Scheme: Mariana
 
-![screenshot-2](./screenshots/screenshot-breakers.png) 
+![screenshot-breakers](./screenshots/screenshot-breakers.png) 
 Font: Inconsolata Bold, Color Scheme: Breakers
 
-![screenshot-3](./screenshots/screenshot-charcoal.png) 
+![screenshot-charcoal](./screenshots/screenshot-charcoal.png) 
 Font: IBM Plex Mono, Color Scheme: Charcoal
 
 ## Installation
@@ -17,9 +17,9 @@ Font: IBM Plex Mono, Color Scheme: Charcoal
 Download using [Package Control](packagecontrol.io): search "Theme - Outlined"
 
 ### Manual
-- open Preferences -> Browse Packages...
-- create new folder named Theme - Fits
-- download package and unzip into this folder
+- Open Preferences -> Browse Packages...
+- Create new folder named "Theme - Outlined"
+- Download the package and unzip it into this folder
 
 ## Customization
 
