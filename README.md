@@ -14,7 +14,7 @@ Font: IBM Plex Mono, Color Scheme: Charcoal
 ## Installation
 
 ### Recomended
-Download using [Package Control](packagecontrol.io): search "Theme - Outlined"
+Download using [Package Control](https://packagecontrol.io): search "Theme - Outlined"
 
 ### Manual
 - Open Preferences -> Browse Packages...
@@ -23,7 +23,8 @@ Download using [Package Control](packagecontrol.io): search "Theme - Outlined"
 
 ## Customization
 
-To modify the Theme install PackageResourceViewer, open the quick panel and search "Open Resource". Then search for "Theme - Outlined" and modify Outlined.sublime-theme as you want.
+To modify the theme install "PackageResourceViewer", open the Quick Panel and search "Open Resource". 
+Then search for "Theme - Outlined" and modify `Outlined.sublime-theme` as you want.
 
 ## Credits
 Based extensivly on [Theme Fits](https://github.com/xxxzc/themefits) by xxxzc.
