@@ -2,7 +2,7 @@
 
 An adaptive Sublime Text 3 Theme based on [Theme Fits](https://github.com/xxxzc/themefits) that can be used to almost all color schemes.  
 
-![screenshot-mariana](./screenshots/screenshot-mariana.png) 
+![screenshot-mariana](./screenshots/screenshot-mariana@small.png) 
 Font: Inconsolata Bold, Color Scheme: Mariana
 
 ![screenshot-breakers](./screenshots/screenshot-breakers.png) 
